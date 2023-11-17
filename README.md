@@ -4,7 +4,6 @@
 I'm Wakeel Furqan Ahmed, currently navigating my 5th semester at [Bahria University](https://www.bahria.edu.pk/), pursuing a degree in (BS) Computer Science. With a strong foundation in logic construction and problem-solving, I find immense satisfaction in crafting pristine, efficient, and bug-free code and solutions.
 
 ## About Me
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wakeelfahmed&label=Profile%20views&color=0e75b6&style=flat" alt="wakeelfahmed" /> </p>
 
 - 🎓 Currently in my 5th semester of (BS) Computer Science @ [Bahria University](https://www.bahria.edu.pk/).
 - 💼 Level 1 Seller @ [Fiverr](https://www.fiverr.com/wakeelfahmed) specializing in game and desktop application development.
