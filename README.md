@@ -6,10 +6,10 @@ I'm Wakeel Furqan Ahmed, currently navigating my 5th semester at [Bahria Univers
 ## About Me
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wakeelfahmed&label=Profile%20views&color=0e75b6&style=flat" alt="wakeelfahmed" /> </p>
 
-- 🎓 Currently in my 5th semester of (BS) Computer Science at [Bahria University](https://www.bahria.edu.pk/).
-- 💼 Level 1 Seller on [Fiverr](https://www.fiverr.com/wakeelfahmed) specializing in game and desktop application development.
-- 🌐 Part-time contributor at the [Center of Excellence AI](https://bahria.edu.pk/coeai/), actively engaged in intriguing deep learning projects.
-- 🤖 Technical Member @ GDSC, Bahria.
+- 🎓 Currently in my 5th semester of (BS) Computer Science @ [Bahria University](https://www.bahria.edu.pk/).
+- 💼 Level 1 Seller @ [Fiverr](https://www.fiverr.com/wakeelfahmed) specializing in game and desktop application development.
+- 🌐 Part-time contributor @ [Center of Excellence AI](https://bahria.edu.pk/coeai/), actively engaged in intriguing deep learning projects.
+- 🤖 Technical Member @ [GDSC, Bahria](https://www.linkedin.com/company/gdscbahria/).
   
 ## Tech Stack
 - Game Development
