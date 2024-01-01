@@ -20,7 +20,8 @@ I'm Wakeel Furqan Ahmed, currently navigating my 5th semester at [Bahria Univers
   
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wakeelfahmed&show_icons=true&locale=en&layout=compact" alt="wakeelfahmed" /></p>
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wakeelfahmed&show_icons=true&theme=gotham" alt="wakeelfahmed" />
-
+  
+ [![Wakeel StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18568732)](https://stackoverflow.com/users/18568732/wakeel-furqan-ahmed)
 </p>
 
 ## Interests
