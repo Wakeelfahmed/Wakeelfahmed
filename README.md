@@ -1,5 +1,5 @@
 # Greetings! 👋
-<h3 align="center">COE-AI | C++ Game Developer | CS BUIC'25 | Technical Member @ GSDC </h3>
+<h3 align="center">COE-AI | C++ Game Developer | CS BUIC'25 | Technical Member @ GSDC | Freelancer </h3>
 
 I'm Wakeel Furqan Ahmed, currently navigating my 5th semester at [Bahria University](https://www.bahria.edu.pk/), pursuing a degree in (BS) Computer Science. With a strong foundation in logic construction and problem-solving, I find immense satisfaction in crafting pristine, efficient, and bug-free code and solutions.
 
@@ -12,10 +12,13 @@ I'm Wakeel Furqan Ahmed, currently navigating my 5th semester at [Bahria Univers
   
 ## Tech Stack
 - Game Development
+- AI/ML
 - Unity 3D (VR & Android)
 - Desktop application
 - Python Development
 - Android Development
+- Flutter Development
+- C++ Development
 <p align="left">
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -40,6 +43,8 @@ I'm Wakeel Furqan Ahmed, currently navigating my 5th semester at [Bahria Univers
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="javascript" width="40" height="40"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="javascript" width="40" height="40"/> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="javascript" width="40" height="40"/> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="javascript" width="40" height="40"/> 
+
 
 </p>
 
@@ -51,10 +56,10 @@ I'm Wakeel Furqan Ahmed, currently navigating my 5th semester at [Bahria Univers
 </p>
 
 ## Interests
+- Artificial Intelligence / Machine learning
 - Game Development
 - AR/VR<br>
 - Cybersecurity
-- Artificial Intelligence<br>
 - Quantum Computing
 
 Staying at the forefront of technology is not just a goal; it's a passion that fuels my desire to push boundaries.
