@@ -6,7 +6,7 @@ I'm Wakeel Furqan Ahmed, currently navigating my 5th semester at [Bahria Univers
 ## About Me
 
 - 🎓 Currently in my 8th semester of (BS) Computer Science @ [Bahria University](https://www.bahria.edu.pk/).
-- 💼 Level 1 Seller @ [Fiverr](https://www.fiverr.com/wakeelfahmed) specializing in game and desktop application development.
+- 💼 Level 2 Seller @ [Fiverr](https://www.fiverr.com/wakeelfahmed) specializing in game and desktop application development.
 - 🌐 Part-time contributor @ [Center of Excellence AI](https://bahria.edu.pk/coeai/), actively engaged in intriguing deep learning projects.
 - 🤖 Technical Member @ [Google Developer Student Club, Bahria ISB](https://www.linkedin.com/company/gdscbahria/).
   
