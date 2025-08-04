@@ -1,13 +1,13 @@
 # Greetings! 👋
-<h3 align="center">COE-AI | C++ Game Developer | CS BUIC'25 | Technical Member @ GSDC | Freelancer </h3>
+<h3 align="center"> Freelancer | C++ Game Developer | CS BUIC'25 | COE-AI | Technical Member @ GSDC </h3>
 
-I'm Wakeel Furqan Ahmed, currently navigating my 5th semester at [Bahria University](https://www.bahria.edu.pk/), pursuing a degree in (BS) Computer Science. With a strong foundation in logic construction and problem-solving, I find immense satisfaction in crafting pristine, efficient, and bug-free code and solutions.
+I'm **Wakeel Furqan Ahmed**, a Computer Science graduate from [Bahria University, Islamabad](https://www.bahria.edu.pk/), Class of 2025. With a strong foundation in programming, AI and game development, I specialize in crafting efficient, clean, and innovative solutions — whether it’s a real-time game or an intelligent system.
 
 ## About Me
 
-- 🎓 Currently in my 8th semester of (BS) Computer Science @ [Bahria University](https://www.bahria.edu.pk/).
+- 🎓 Recently graduated with a BS in Computer Science from @ [Bahria University](https://www.bahria.edu.pk/).
 - 💼 Level 2 Seller @ [Fiverr](https://www.fiverr.com/wakeelfahmed) specializing in game and desktop application development.
-- 🌐 Part-time contributor @ [Center of Excellence AI](https://bahria.edu.pk/coeai/), actively engaged in intriguing deep learning projects.
+- 🌐 AI/ML & XR Developer @ [Center of Excellence AI](https://bahria.edu.pk/coeai/), actively engaged in intriguing deep learning projects.
 - 🤖 Technical Member @ [Google Developer Student Club, Bahria ISB](https://www.linkedin.com/company/gdscbahria/).
   
 ## Tech Stack
